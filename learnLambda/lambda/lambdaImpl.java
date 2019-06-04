@@ -9,7 +9,7 @@ public class lambdaImpl {
 	public static void main(String[] args) {
 		
 		// here we will call the function
-		
+		// I will need to pull the change let is see what will happen
 	}
 	
 	// That is a normal function 
