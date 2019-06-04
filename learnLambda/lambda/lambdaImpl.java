@@ -8,7 +8,8 @@ public class lambdaImpl {
 
 	public static void main(String[] args) {
 		
-
+		// here we will call the function
+		
 	}
 	
 	// That is a normal function 
